@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Madhu-mac/Course_Hub/blob/main/Client-user/src/assets/CourseHub.png" alt="CourseHub" width="100%">
+  <img src="https://github.com/Madhu-mac/Course_Hub/blob/main/Client-user/src/assets/Learnify.png" alt="Learnify" width="100%">
 </div>
  
 <div align="center">
