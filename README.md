@@ -1,3 +1,5 @@
+Learnify is a full-stack course management platform that simplifies the process of creating, managing, and purchasing online courses. Built with the MERN stack (MongoDB, Express.js, React.js, Node.js), it offers dedicated interfaces for both administrators and learners.
+
 
 # Table of Contents
 
