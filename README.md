@@ -1,26 +1,3 @@
-<div align="center">
-  <img src="https://github.com/Madhu-mac/Course_Hub/blob/main/Client-user/src/assets/Learnify.png" alt="Learnify" width="100%">
-</div>
- 
-<div align="center">
-  <h2>Course selling app</h2>
-</div>
-
-A comprehensive course-selling website with robust features, built on the MERN stack (Node.js, Express.js, MongoDB, and React).
-
-Explore the live application: 🚀✨
-- Admin Panel :-  https://coursehub-admin.netlify.app/
-  
-
-https://github.com/Madhu-mac/Course_Hub/assets/99901964/7b26febd-de7d-4a68-9017-6a2902088478
-
-
-- User Panel :-  https://coursehub-user.netlify.app/
-  
-
-https://github.com/Madhu-mac/Course_Hub/assets/99901964/a6270f05-deae-4d58-b9a8-a550fad1a7b4
-
-- CourseHub Backend :- https://coursehub-7s37.onrender.com
 
 # Table of Contents
 
@@ -84,7 +61,7 @@ Ensure that Node.js and npm are installed on your machine.
 
 1. Change directory to the root of the cloned repository
    ```sh
-   cd CourseHub
+   cd Learnify-main
    ```
 2. Change directory to the server folder
    ```sh
@@ -96,7 +73,7 @@ Ensure that Node.js and npm are installed on your machine.
    ```
 4. Create .env file and add DB_NAME and SECRET
    ```sh
-   DB_CONNECT = mongodb+srv://<name:password>@cluster0.1uxyuwe.mongodb.net/courses
+   DB_CONNECT = mongodb://localhost:27017/project
    SECRET = "Random String";
    ```
 5. Start the server
